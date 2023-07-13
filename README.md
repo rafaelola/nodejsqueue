@@ -33,4 +33,4 @@ This will launch the server and make the endpoint accessible.
 Contributions to this project are welcome. Feel free to fork the repository and submit pull requests with your improvements.
 
 ### License
-This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use and modify the code as per the terms of the license.
